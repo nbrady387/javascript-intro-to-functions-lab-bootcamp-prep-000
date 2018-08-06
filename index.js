@@ -20,6 +20,9 @@ var uppercase = "HELLO!"
 var lowercase = "hello!"
 var mixedCase = "Hi there!"
 
-if (string) === string.toLowerCase{
-  return ""
+if(string) === string.toLowerCase{
+  return "I can't hear you!"
 }
+ else if(string) ==== string.toUpperCase{
+   return ""
+ }
